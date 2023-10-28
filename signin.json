@@ -1,0 +1,117 @@
+[
+    {
+      "firstname": "Animesh",
+      "lastname": "Ghoroi",
+      "email": "a@gmail.com",
+      "password": "789",
+      "address": "gumai",
+      "pincode": "721144",
+      "states": "up",
+      "cart": [
+        {
+          "title": "T-DIEGOS SLIM FIT MEN BLUE T-SHIRT",
+          "catagory": "shirt",
+          "price": "1699.00",
+          "orgprice": "1999.00",
+          "color": "blue",
+          "image": "https://diesel.gumlet.io/product/410291631004/665/410291631004_1.jpg?compress=true&q=70",
+          "additionalImg": [
+            "https://diesel.gumlet.io/product/410291631004/665/410291631004_1.jpg?compress=true&q=70",
+            "https://diesel.gumlet.io/product/410291631004/665/410291631004_2.jpg?compress=true&q=70",
+            "https://diesel.gumlet.io/product/410291631004/665/410291631004_3.jpg?compress=true&q=70",
+            "https://diesel.gumlet.io/product/410291631004/665/410291631004_4.jpg?compress=true&q=70"
+          ],
+          "id": 4,
+          "quantity": 1
+        },
+        {
+          "title": "Nailpolish",
+          "price": "777",
+          "color": "pink",
+          "catagory": "nailpolish",
+          "image": "https://static.zara.net/photos///2023/V/2/1/p/0120/511/999/2/w/208/0120511999_6_1_1.jpg?ts=1673264632261",
+          "id": 60,
+          "quantity": 1
+        }
+      ],
+      "id": 16
+    },
+    {
+      "firstname": "Santanu ",
+      "lastname": "Samanta ",
+      "email": "s@gmail.com",
+      "password": "123456",
+      "address": "",
+      "pincode": "",
+      "states": "",
+      "cart": [],
+      "id": 17
+    },
+    {
+      "firstname": "omkant",
+      "lastname": "yadav",
+      "email": "o@gmail.com",
+      "password": "1234",
+      "address": "",
+      "pincode": "721144",
+      "states": "up",
+      "cart": [
+        {
+          "title": "D-LARY REGULAR FIT WOMEN BLACK DRESS",
+          "catagory": "dress",
+          "price": "7995.00",
+          "orgprice": "8599.00",
+          "color": "black",
+          "image": "https://diesel.gumlet.io/product/410243593005/665/410243593002_3.jpg?compress=true&q=70",
+          "additionalImg": [
+            "https://diesel.gumlet.io/product/410243593005/665/410243593002_3.jpg?compress=true&q=70",
+            "https://diesel.gumlet.io/product/410243593005/665/410243593002_5.jpg?compress=true&q=70",
+            "https://diesel.gumlet.io/product/410243593005/665/410243593002_6.jpg?compress=true&q=70",
+            "https://diesel.gumlet.io/product/410243593005/665/410243593002_2.jpg?compress=true&q=70"
+          ],
+          "id": 3,
+          "quantity": 1
+        }
+      ],
+      "id": 18
+    },
+    {
+      "firstname": "vineet",
+      "lastname": "kumar",
+      "email": "v@gmail.com",
+      "password": "12345",
+      "address": "",
+      "pincode": "721144",
+      "states": "up",
+      "cart": [
+        {
+          "title": "1969 D-EBBEY Flare Women Blue Jeans",
+          "catagory": "jeans",
+          "price": "11999.00",
+          "orgprice": "19999.00",
+          "color": "blue",
+          "image": "https://diesel.gumlet.io/product/410345262007/665/410345262007_1_9805.webp?compress=true&q=70",
+          "additionalImg": [
+            "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+            "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+            "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+            "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
+          ],
+          "id": 36,
+          "quantity": 1
+        }
+      ],
+      "id": 19
+    },
+    {
+      "firstname": "sourav",
+      "lastname": "lahiri",
+      "email": "sourav@gmail.com",
+      "password": "1234",
+      "address": "gfhgf",
+      "pincode": "721144",
+      "states": "westbengal",
+      "cart": [],
+      "id": 20
+    }
+  ]
